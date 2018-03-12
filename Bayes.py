@@ -66,6 +66,9 @@ def BayesNetwork(text):
             record.append([])
 
 
+        cateLookUp = {"Name":0, "Information": 1, "History":2 , ""}
+
+
 #for i in range (0, len(textsplit)):
 #           for j in range (0, len(textsplit[i])):
         for j in range (0, len(textsplit)):
