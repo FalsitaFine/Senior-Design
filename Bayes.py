@@ -85,25 +85,35 @@ def BayesNetwork(text):
 
 #Bayes Network
 
-#First layer, detect symptoms
-if (len(record[cateLookUp['Symptoms']]>0)):
+		# Symptom layer, detect symptoms
+		if (len(record[cateLookUp['Symptoms']]>0)):
 
-#Second Layer, detect family members
-  if (len(record[6])>0):
-    #Family history
+			# Family Layer, detect family members
+			if (len(record[cateLookUp['Family']]) > 0):
+		    # Report Family history
+		    	print("0")
 
-#Have not detected family members
-  else:
+			# Time Layer, detect Time information
+			elif (len(record[cateLookUp['Time']]) > 0):
+				# Long period
+				if ("year" in record[cateLookUp['Time']] \
+					or "years" in record[cateLookUp['Time']]):
+					# Report Problem list
 
-#Third Layer, detect Time information
-  	if (len(record[2])>0):
-  		#History
+				else: 
+					# Report History of present illness
 
-  	else
+			else: 
+				# Report Problem list
 
+		# No symptom found, detect organ
+		elif (len(record[cateLookUp['Organ']]) > 0): 
+			# Report phycial Exam
 
-#Have not detected symptoms
-else:
+		# No organ found, check for special set
+		else: 
+
+		        #Output the extracting results
 
 
 
