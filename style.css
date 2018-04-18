@@ -1,0 +1,63 @@
+  title{
+      width:90%;
+      margin:auto;
+
+   }
+
+  body{
+    background-color: #FFFFE0;
+  }
+
+  form{
+    margin:auto;
+    background-color: #66ccff;
+  }
+
+
+#EMRTable{
+    table-layout: fixed;
+}
+ #EMRTable td, th {    
+
+  border: 1px solid black;
+	border-collapse: collapse;
+  background-color: #66ccff;
+	width:90%
+      }
+
+  #Etable {
+  table-layout: fixed;
+  border-collapse: collapse;		
+  margin-left: 5%;
+	width:90%;	  
+
+      }
+
+      h2 {
+        text-align:center;
+        font-size : 150%;
+      }
+
+      th, td {
+        padding: 15px;
+      } 
+
+      caption{
+         color: #FF0000;
+         font-size : 200%;
+      }
+
+     
+
+	h1 {
+		text-align: center;
+	}
+
+
+  
+	html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
