@@ -4,38 +4,31 @@ import time
 import threading
 import Queue
 import os.path as path
-import datetime
 
 
 class GuiPart:
 	domain = {'Allergies':0, 'Assessment':0,'Family_History':0,'HPI':0,\
 			'Medical_History':0, 'Medications':0, 'Patient_Instructions':0,\
 			'Physical_Exam':0,'Plan':0,'Review_of_Systems':0}
+	config = {'Allergies':[1,0,0,0],'Assessment':[],'Family_History':[],'HPI':[],\
+			'Medical_History':[], 'Medications':[], 'Patient_Instructions':[],\
+			'Physical_Exam':[],'Plan':[],'Review_of_Systems':[]}
 
-	# value of configs is an array that stores [row,column,rowspan,columnspan]
-	configs = {'Allergies':[1,1,4,0],'Assessment':[12,2,0,2],\
-			'Family_History':[1,2,4,0],'HPI':[8,0,0,4],\
-			'Medical_History':[6,0,0,4], 'Medications':[1,0,4,0], \
-			'Patient_Instructions':[14,2,0,2],'Physical_Exam':[12,0,0,2],\
-			'Plan':[14,0,0,2],'Review_of_Systems':[10,0,0,4]}
-
-	def DrawBox(self,category,textin):
-		config = self.configs[category]
+	def DrawTextBox(self,config,category,text):
 		label = tk.Label(self.master,text=category)
-		label.grid(row=config[0],column=config[1])
-		if(category == 'Medications' or category == 'Allergies' or category == 'Family_History'):
-			#Listbox
-			contents = (textin)
-			list_var = tk.StringVar(value=contents)
-			self.domain[category] = tk.Listbox(self.master, listvariable=list_var)
-			self.domain[category].grid(row=config[0]+1,column=config[1],rowspan=config[2])
-		else:
-			#Textbox
-			self.domain[category] = tk.Text(self.master,wrap="word",width=30,height=4,font="Helvetica, 10")
-			text = textin
-			self.domain[category].insert(END,text)
-			self.domain[category].grid(row= config[0]+1,column=config[1],columnspan = config[3])
-		
+		label.grid(row=start_row,column=start_column)
+		self.domain['category'] = tk.Text(self.master,wrap="word",width=30,height=4,font="Helvetica, 10")
+		text = category + "will go here."
+		self.domain['category'].insert(END,text)
+		self.domain['category'].grid(row= start_row+1,column=start_column)
+
+	def DrawListBox(self,column_in,category):
+		label = tk.Label(self.master,text=category)
+		label.grid(row=1,column=0)
+		contents = (category,'goes','here')
+		list_var = tk.StringVar(value=contents)
+		self.domain[category] = tk.Listbox(self.master, listvariable=list_var)
+		self.domain[category].grid(row=2,column=column_in,rowspan=4)
 	
 	def __init__(self, master, queue, initial, endCommand):
 		self.queue = queue
@@ -45,7 +38,6 @@ class GuiPart:
 		#console = tk.Button(master, text='Done', command=endCommand)
 		#console.pack()
 		# Add more GUI stuff here
-		textin = "default"
 		master.title("Electronic Medical Record")
 		master.grid()
 		name = tk.Label(master,text="Jane Doe", font="Arial 16 bold")
@@ -54,12 +46,38 @@ class GuiPart:
 		name.grid(row=0,column=0)
 		age.grid(row=0,column=1)
 		gender.grid(row=0,column=2)
-		button = tk.Button(master, text='Exit', command=endCommand)
+		button = tk.Button(master, text='Done', command=endCommand)
 		button.grid(row=0,column=3)
-		buttong = tk.Button(master, text = 'Generate', command = self.generate)
-		buttong.grid(row=0,column = 4)
-		for category in self.domain.keys():
-			self.DrawBox(category,textin)
+
+		# Medications
+		self.DrawListBox(0,'Medications')
+
+		# Allergies
+		self.DrawListBox(1,'Allergies')
+
+		# Family History
+		self.DrawListBox(2,'Family_History')
+
+		# Medical History
+		self.DrawTextBox(6,0,'Medical_History')
+		
+		# History of Present Illness (HPI)
+		self.DrawTextBox(8,0,'Review_of_Systems')
+
+		# Review of Systems (ROS)
+		self.DrawTextBox(10,0,'Review_of_Systems')
+
+		# Physical Exam
+		self.DrawTextBox(12,0,'Physical_Exam')
+
+		# Assessment
+		self.DrawTextBox(12,2,'Assessment')
+
+		# Plan
+		self.DrawTextBox(14,0,'Plan')
+
+		# Patient Instructions
+		self.DrawTextBox(14,2,'Patient_Instructions')
 
 	def createDialog(self, keywords, category):
 		dialog = Toplevel(self.master)
@@ -87,79 +105,6 @@ class GuiPart:
 		print("Adding information to "+ category)
 		self.DrawTextBox(12,2,category,info)
 
-		
-	def createDialog(self, keywords, category):
-		dialog = Toplevel(self.master)
-		dialog.grid()
-		dialog.title("Add to EMR")
-		label = tk.Label(dialog,text="Add: ")
-		label.grid(row=1,column=0)
-		entry = tk.Entry(dialog)
-		entry.insert(END,keywords)
-		entry.grid(row=1,column=1)
-		label = tk.Label(dialog,text=" to ")
-		label.grid(row=1,column=2)
-		categories = ("Medications","Allergies","Family_History","Medical_History",
-		"HPI", "Review_of_Systems", "Physical_Exam", "Assessment","Plan","Patient_Instructions")
-		index = categories.index(category)
-		v = tk.StringVar()
-		v.set(categories[index])
-		categoryMenu = tk.OptionMenu(dialog,v,*categories)
-		categoryMenu.grid(row=1,column=3)
-		cancelButton = tk.Button(dialog,text="Cancel",command = dialog.destroy)
-		cancelButton.grid(row=2,column=2)
-		acceptButton = tk.Button(dialog,text="Accept",command = lambda: self.addInformation(entry.get(),categories[index],dialog))
-		acceptButton.grid(row=2,column=3)
-		
-	def addInformation(self,info,category,dialog):
-		self.DrawBox(category,info)
-		dialog.destroy()
-	def generate(self):
-		categories = ("Allergies","Assessment","Family_History","HPI","Medical_History","Medications","Patient_Instructions","Physical_Exam","Plan","Review_of_Systems")
-		html = "<!DOCTYPE html><html><head><meta charset = \"utf-8\"><title>EMR Table</title><link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"></head><br><br><br><div id =\"Etable\"><table id = \"EMRTable\"><caption>Electrical Medical Record</caption><tr><th>Category</th><th>Content</th></tr>"
-		htmlw = "./EMRresult.html"
-		print(self.domain["Medications"].get(0,END),self.domain["HPI"].get("1.0",END))
-		f = open(htmlw,'w')
-		for i in range(0,10):
-			print(categories[i])
-			if(categories[i] == 'Medications' or categories[i] == 'Allergies' or categories[i] == 'Family_History'):
-				temp = self.domain[categories[i]]
-				print(temp)
-				temp = temp.get(0,END)
-				temp = temp[0]
-			else:
-				temp = self.domain[categories[i]]
-				print(temp)
-				temp = temp.get("1.0",END)
-
-
-
-			currenttime = datetime.datetime.now()
-			currenttime = ''.join(["Date:",str(currenttime)])
-			filename = "./trainingdata/"+categories[i]+"/"+currenttime+".txt"	
-			trainingfile = open(filename,"w")
-			trainingfile.write(str(temp))
-			trainingfile.close
-			print ("(Training Data) Writing ",str(temp)," to ",categories[i])
-			html = html + "<tr><td>" + categories[i]+ "</td><td>" + str(temp) + "</td></tr>"
-		html = html + "</table></div></body></html>"
-		f.write(html)
-		f.close()
-
-
-
-	'''
-	def generate(self):
-		print("Generating EMR page and training data")
-    	currenttime = datetime.datetime.now()
-    	currenttime = ''.join(["Date:",str(currenttime)])
-    	filename = ''.join([currenttime,".txt"])
-    	fullfilename = ''.join([self.meds_var,"/",filename])
-    	trainingfile = open(fullfilename,"w")
-    	trainingfile.write(text)
-    	trainingfile.close
-	'''
-
 	def processIncoming(self):
 		"""
 		Handle all the messages currently in the queue (if any).
@@ -169,7 +114,7 @@ class GuiPart:
 				msg = self.queue.get(0)
 				# Check contents of message and do what it says
 				# As a test, we simply print it
-				f = open('./data/text.txt','r')
+				f = open('text.txt','r')
 				current = f.readlines()
 				if current != self.initial:
 					for line in current:
@@ -203,7 +148,7 @@ class ThreadedClient:
 		self.queue = Queue.Queue()
 
 		# Set up the GUI part
-		f = open('./data/text.txt','r')
+		f = open('text.txt','r')
 		initial = f.readlines()
 		self.gui = GuiPart(master, self.queue, initial, self.endApplication)
 

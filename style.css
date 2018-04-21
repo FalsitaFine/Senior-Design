@@ -1,16 +1,15 @@
   title{
-      width:90%;
       margin:auto;
 
    }
 
   body{
-    background-color: #FFFFE0;
+    background-color: #FFFFFF;
   }
 
   form{
     margin:auto;
-    background-color: #66ccff;
+    background-color: #FFFFF;
   }
 
 
@@ -20,22 +19,20 @@
  #EMRTable td, th {    
 
   border: 1px solid black;
-	border-collapse: collapse;
-  background-color: #66ccff;
-	width:90%
+  border-collapse: collapse;
+  background-color: #FFFFFF;
       }
 
   #Etable {
   table-layout: fixed;
-  border-collapse: collapse;		
+  border-collapse: collapse;    
   margin-left: 5%;
-	width:90%;	  
 
       }
 
       h2 {
         text-align:center;
-        font-size : 150%;
+        font-size : 120%;
       }
 
       th, td {
@@ -43,19 +40,18 @@
       } 
 
       caption{
-         color: #FF0000;
-         font-size : 200%;
+         font-size : 120%;
       }
 
      
 
-	h1 {
-		text-align: center;
-	}
+  h1 {
+    text-align: center;
+  }
 
 
   
-	html, body {
+  html, body {
         height: 100%;
         margin: 0;
         padding: 0;

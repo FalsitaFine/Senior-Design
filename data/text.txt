@@ -1,0 +1,89 @@
+1 patient: hello,Assessment
+2 doctor: hello,HPI
+6 doctor: Quizlet program,HPI
+7 patient: quit the program,Review_of_Systems
+2 patient: hello,Assessment
+3 patient: utility to draw,Medications
+7 patient: Skylander Hotel cuello program,Assessment
+10 doctor: quit the program,Review_of_Systems
+1 doctor: how are you,Medications
+2 patient: how are you,Medications
+3 patient: jalapenos on Sashabaw,Assessment
+8 patient: way to go program,Patient_Instructions
+11 doctor: crossword quiz,HPI
+10 patient: Orchard Charlotte NC program,Assessment
+12 patient: quitter Le programme,Assessment
+2 doctor: I am smart,HPI
+3 patient: I am smart,HPI
+5 patient: HPI Challenger,Assessment
+8 doctor: show me a sandwich,Allergies
+15 patient: quitter Le programme,Assessment
+2 patient: location how is it going,Physical_Exam
+3 doctor: I think I don't feel good this days,Review_of_Systems
+4 patient: where did you feel good,Medications
+6 patient: how long have you been feeling bad headache,HPI
+7 doctor: about 1 year,HPI
+5 doctor: hotties,HPI
+9 patient: what else do feel,Review_of_Systems
+10 doctor: I ate a lot of aspirins and to my stomach,Allergy
+12 patient: is there someone in your family that has the same problem,Family_History
+15 doctor: I think my dad said how do you say King 2,Family_History
+18 patient: are you allergic to anything,Patient_Instructions
+19 doctor: I'm allergic to stupid people,Allergies
+23 patient: okay that's Christmas program Alexa this program,HPI
+24 doctor: quick to the program,Review_of_Systems
+1 patient: hello patient how do you feel,Medications
+2 doctor: how catching a fever for days,HPI
+3 patient: after how many days,Medical_History
+4 doctor: I think they serve for one year,Medications
+6 patient: I have you take any medicine,Medications
+7 doctor: I have taken some aspirin,HPI
+8 patient: and do you have some allergic to the medicine,Medications
+9 doctor: I think I'm ready to,Medications
+11 doctor: stupid people,HPI
+12 patient: how about your family does someone in your family has similar symptoms,Physical_Exam
+13 doctor: my dad has been coughing for a mouse to,Family_History
+14 patient: and,Review_of_Systems
+16 patient: okay I have no question to ask let's Christopher room,Physical_Exam
+21 doctor: Brady tour,HPI
+22 doctor: song,HPI
+40 patient: I've been coughing for 3 days,HPI
+44 patient: my grandparents have cancer,Family_History
+45 doctor: my grandparents have cancer,Family_History
+48 doctor: Cheshire Ohio,HPI
+53 patient: I'm eating ice cream this day,Medications
+56 patient: oh no I'm eating ice cream this is not ice cream,Medical_History
+64 patient: I had a fever since this morning,Medical_History
+69 patient: I'm allergic to penicillin,Allergies
+72 patient: I don't feel good waiting peanuts,Review_of_Systems
+71 doctor: Peoples Bank in peanuts,HPI
+79 doctor: I suggest you all to take off Rochester,Medications
+80 patient: I suggest you all to take out block tester,Medications
+82 patient: first,Assessment
+84 doctor: I suggest to you taking a blood test on first,Physical_Exam
+85 patient: I suggest to you picking up blood test at first,Physical_Exam
+88 doctor: well I looked into your eyes your eyes yellow,Physical_Exam
+89 patient: oh I looked into your eyes your eyes see Seattle,Physical_Exam
+100 doctor: because I'm John,Allergies
+101 doctor: quit the program,Review_of_Systems
+3 patient: I am,HPI
+4 patient: coughing for this days,HPI
+5 doctor: I am coughing for this day,HPI
+11 patient: how does the Hulk honey I have eating aspirin for a month,HPI
+14 patient: water help your shoulder by eating aspirin for a month,Instructions
+13 doctor: waratah,HPI
+21 patient: my dad is still peed,Family_History
+20 doctor: my dad is stupid,Family_History
+23 patient: for his whole life,Medications
+22 doctor: for his whole life,Patient_Instructions
+30 patient: hi,HPI
+31 patient: o3o Angelo,Assessment
+32 doctor: oh,HPI
+37 doctor: tornado,HPI
+39 doctor: Queen of the program,Review_of_Systems
+40 patient: quit of the program,Family_History
+1 doctor: I have been coughing for days,HPI
+2 patient: I have been coughing for days,HPI
+27 doctor: weather,HPI
+30 patient: quick to the program,Review_of_Systems
+31 doctor: quit to the program,Review_of_Systems
