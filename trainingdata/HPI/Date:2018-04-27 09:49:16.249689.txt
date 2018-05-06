@@ -1,0 +1,5 @@
+...
+    4 patient: I've been having a very upset stomach for the past week
+    7 patient: I have a high temperature and I have a low appetite
+    10 patient: a couple days
+    11 patient: 100 degrees

@@ -1,0 +1,4 @@
+...
+    21 patient: in the past month I broke my arm
+    23 patient: I fell off my bike
+    26 doctor: did the arm heal regularly

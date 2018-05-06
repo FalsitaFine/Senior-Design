@@ -1,0 +1,3 @@
+...
+    7 patient: I'm taking aspirin  ;  
+    16 patient: the patient described last night that he had difficulty sleeping due to pain in his  ;  

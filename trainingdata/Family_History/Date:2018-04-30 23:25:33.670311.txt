@@ -1,0 +1,1 @@
+("('...',)", '54', 'patient:', 'my', 'father', 'has', 'been', 'coughing', 'for', 'days')

@@ -1,0 +1,4 @@
+...
+    37 doctor: I recommend that you rest and stay off your feet for 3 days
+    41 doctor: I want you to take it for 6 days twice a day
+    40 doctor: I'm going to prescribe you an antibiotic

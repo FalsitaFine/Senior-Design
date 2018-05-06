@@ -1,0 +1,3 @@
+...
+    36 doctor: I have been coughing for days
+  I had a fever for days

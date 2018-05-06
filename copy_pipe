@@ -1,0 +1,439 @@
+1 patient: hello,Assessment
+2 doctor: hello,HPI
+6 doctor: Quizlet program,HPI
+7 patient: quit the program,Review_of_Systems
+2 patient: hello,Assessment
+3 patient: utility to draw,Medications
+7 patient: Skylander Hotel cuello program,Assessment
+10 doctor: quit the program,Review_of_Systems
+1 doctor: how are you,Medications
+2 patient: how are you,Medications
+3 patient: jalapenos on Sashabaw,Assessment
+8 patient: way to go program,Patient_Instructions
+11 doctor: crossword quiz,HPI
+10 patient: Orchard Charlotte NC program,Assessment
+12 patient: quitter Le programme,Assessment
+2 doctor: I am smart,HPI
+3 patient: I am smart,HPI
+5 patient: HPI Challenger,Assessment
+8 doctor: show me a sandwich,Allergies
+15 patient: quitter Le programme,Assessment
+2 patient: location how is it going,Physical_Exam
+3 doctor: I think I don't feel good this days,Review_of_Systems
+4 patient: where did you feel good,Medications
+6 patient: how long have you been feeling bad headache,HPI
+7 doctor: about 1 year,HPI
+5 doctor: hotties,HPI
+9 patient: what else do feel,Review_of_Systems
+10 doctor: I ate a lot of aspirins and to my stomach,Allergy
+12 patient: is there someone in your family that has the same problem,Family_History
+15 doctor: I think my dad said how do you say King 2,Family_History
+18 patient: are you allergic to anything,Patient_Instructions
+19 doctor: I'm allergic to stupid people,Allergies
+23 patient: okay that's Christmas program Alexa this program,HPI
+24 doctor: quick to the program,Review_of_Systems
+1 patient: hello patient how do you feel,Medications
+2 doctor: how catching a fever for days,HPI
+3 patient: after how many days,Medical_History
+4 doctor: I think they serve for one year,Medications
+6 patient: I have you take any medicine,Medications
+7 doctor: I have taken some aspirin,HPI
+8 patient: and do you have some allergic to the medicine,Medications
+9 doctor: I think I'm ready to,Medications
+11 doctor: stupid people,HPI
+12 patient: how about your family does someone in your family has similar symptoms,Physical_Exam
+13 doctor: my dad has been coughing for a mouse to,Family_History
+14 patient: and,Review_of_Systems
+16 patient: okay I have no question to ask let's Christopher room,Physical_Exam
+21 doctor: Brady tour,HPI
+22 doctor: song,HPI
+40 patient: I've been coughing for 3 days,HPI
+44 patient: my grandparents have cancer,Family_History
+45 doctor: my grandparents have cancer,Family_History
+48 doctor: Cheshire Ohio,HPI
+53 patient: I'm eating ice cream this day,Medications
+56 patient: oh no I'm eating ice cream this is not ice cream,Medical_History
+64 patient: I had a fever since this morning,Medical_History
+69 patient: I'm allergic to penicillin,Allergies
+72 patient: I don't feel good waiting peanuts,Review_of_Systems
+71 doctor: Peoples Bank in peanuts,HPI
+79 doctor: I suggest you all to take off Rochester,Medications
+80 patient: I suggest you all to take out block tester,Medications
+82 patient: first,Assessment
+84 doctor: I suggest to you taking a blood test on first,Physical_Exam
+85 patient: I suggest to you picking up blood test at first,Physical_Exam
+88 doctor: well I looked into your eyes your eyes yellow,Physical_Exam
+89 patient: oh I looked into your eyes your eyes see Seattle,Physical_Exam
+100 doctor: because I'm John,Allergies
+101 doctor: quit the program,Review_of_Systems
+3 patient: I am,HPI
+4 patient: coughing for this days,HPI
+5 doctor: I am coughing for this day,HPI
+11 patient: how does the Hulk honey I have eating aspirin for a month,HPI
+14 patient: water help your shoulder by eating aspirin for a month,Instructions
+13 doctor: waratah,HPI
+21 patient: my dad is still peed,Family_History
+20 doctor: my dad is stupid,Family_History
+23 patient: for his whole life,Medications
+22 doctor: for his whole life,Patient_Instructions
+30 patient: hi,HPI
+31 patient: o3o Angelo,Assessment
+32 doctor: oh,HPI
+37 doctor: tornado,HPI
+39 doctor: Queen of the program,Review_of_Systems
+40 patient: quit of the program,Family_History
+1 doctor: I have been coughing for days,HPI
+2 patient: I have been coughing for days,HPI
+27 doctor: weather,HPI
+30 patient: quick to the program,Review_of_Systems
+31 doctor: quit to the program,Review_of_Systems
+2 patient: hello doctor,HPI
+1 doctor: hello doctor,HPI
+3 patient: spell papaya,Assessment
+4 doctor: the doctor intrusa,Review_of_Systems
+6 doctor: and the operator,Review_of_Systems
+10 doctor: and I need in this phone,Review_of_Systems
+11 doctor: okay,HPI
+12 doctor: anti,HPI
+13 doctor: play patch,HPI
+15 doctor: I think he's not enough for them all,Patient_Instructions
+17 doctor: call Safeway,HPI
+19 patient: Quaker program,Assessment
+18 doctor: stressed out,HPI
+20 patient: crystal program,Assessment
+22 patient: quitter Le programme,Assessment
+1 doctor: eye doctor,HPI
+2 patient: hi doctor I have been coughing for mouse,HPI
+11 doctor: hey Derek 4-year,HPI
+12 patient: but that had a headache for years,HPI
+17 patient: I thought I had a headache for years,HPI
+37 patient: play the program,Review_of_Systems
+38 patient: cuidate program,Assessment
+40 patient: Pizza Provo,Assessment
+1 doctor: Eye doctor,HPI
+3 doctor: McKinley Park,HPI
+5 doctor: hello,HPI
+7 doctor: I have been coughing for years,HPI
+8 doctor: my father has been having for years,Family_History
+11 doctor: Selena for,HPI
+16 doctor: ulcer,HPI
+18 doctor: how to design Lake High School,Physical_Exam
+19 doctor: play the program,Review_of_Systems
+20 doctor: pictures of program,Family_History
+3 doctor: I have been coughing for days,HPI
+4 patient: I have been coughing for days,HPI
+9 doctor: I have taken aspirin for days,HPI
+10 patient: I have taken aspirin for a day,Medications
+14 doctor: I thought you'd feel taking some aspirin,Medications
+15 patient: such a deal taking some aspirin,Medications
+16 patient: I think you should take some aspirin,Medications
+17 doctor: I think you should take some aspirin,Medications
+2 patient: my dad has been coughing for days,HPI
+1 doctor: my daughter has been coughing for days,HPI
+1 doctor: my father has been coughing for days,HPI
+2 patient: my father has been coughing for days,HPI
+1 patient: what days,Medical_History
+2 patient: I have been coughing for days,HPI
+3 doctor: I have been coughing for days,HPI
+6 doctor: I have been coughing for days,HPI
+1 patient: I've been coughing for days,HPI
+9 doctor: I have been coughing for days,HPI
+10 patient: I have been coughing for days,HPI
+14 patient: my dad has been coughing for days,HPI
+13 doctor: my dad has been coughing for days,HPI
+17 patient: I thought you're still taking some aspirin,Medications
+16 doctor: I thought you're still taking some aspirin,Medications
+21 doctor: I'm already Hot Spring,HPI
+20 patient: I'm already Hot Spring,HPI
+22 doctor: I am allergic to aspirin,Allergies
+23 patient: I am allergic to aspirin,Allergies
+25 doctor: my father has been coughing for days,HPI
+26 patient: father has been coughing for days,HPI
+2 doctor: my father has been coughing for days,HPI
+3 patient: my father has been coughing for days,HPI
+5 doctor: I thought you're still taking a blood test,Plan
+6 doctor: Italia show taking a blood test,Physical_Exam
+9 doctor: your eyes looks right,Physical_Exam
+10 patient: looks right,Assessment
+1 patient: Ohio,Assessment
+4 doctor: good morning,HPI
+3 patient: good morning,Medical_History
+7 doctor: I'm fine,HPI
+1 patient: is it just a test,Physical_Exam
+6 patient: this is just a test,Physical_Exam
+7 doctor: this is just a test,Physical_Exam
+13 doctor: hello,HPI
+17 doctor: modified,HPI
+16 patient: what do you want,Patient_Instructions
+2 doctor: this is just a test,Physical_Exam
+3 patient: this is just a test,Physical_Exam
+7 doctor: LOL no modify that,HPI
+1 patient: hi this is a test,Physical_Exam
+5 doctor: because me,Allergies
+4 doctor: hi this is a test this is another test this is a test,Physical_Exam
+1 patient: good morning,Medical_History
+2 doctor: testing good morning,HPI
+29 doctor: hello this is just a test,Physical_Exam
+28 patient: hello this is just a test,Physical_Exam
+1 doctor: this is a test,Physical_Exam
+2 patient: this is a test,Physical_Exam
+6 doctor: is there another test,Allergies
+7 patient: is there another test,Physical_Exam
+2 doctor: having coughing for days,HPI
+3 patient: I have been coughing for days,HPI
+6 doctor: I have been taking aspirin for about 1 week,HPI
+5 patient: operating for about 1 week,Medications
+13 doctor: your eyes looks red,Physical_Exam
+18 doctor: such a sale to take out blood test at first,Physical_Exam
+17 patient: Vagisil to take out blood test at first,Physical_Exam
+21 doctor: I suggest you taking a blood test at first,Physical_Exam
+20 patient: I suggested you taking a blood test at first,Physical_Exam
+28 doctor: father has been coughing for years,HPI
+27 patient: father has been coughing for a year,HPI
+2 doctor: this is a test,Physical_Exam
+4 patient: this is another test,Physical_Exam
+5 doctor: this is another test,Physical_Exam
+1 patient: this is a test,Physical_Exam
+2 doctor: this is a test,Physical_Exam
+21 doctor: this is a test,Physical_Exam
+22 patient: this is a test,Physical_Exam
+3 doctor: my father has been coughing for days,HPI
+4 patient: my father has been coughing for days,HPI
+8 patient: my mother has been coughing for days,HPI
+9 doctor: hello my father has been coughing for days,HPI
+11 patient: Bishop Castle,Assessment
+10 doctor: Bishop Castle,HPI
+13 patient: what is the program,HPI
+14 doctor: Quizlet program,HPI
+15 doctor: going to the program,Review_of_Systems
+2 doctor: father has been coughing for days,Family_History
+3 patient: my father has been coughing for days,Family_History
+4 patient: what day is,Medications
+5 doctor: beautiful day,Medications
+7 doctor: I have been coughing for days,HPI
+8 patient: I have been coughing for days,HPI
+10 patient: I'm already two aspirin,HPI
+11 doctor: I'm Auto G2 aspirin,HPI
+13 patient: I am allergic to aspirin,Allergies
+14 doctor: I am allergic to aspirin,Allergies
+15 patient: I think you should take out blood test,Physical_Exam
+16 patient: social takeout broadcaster first,Assessment
+17 patient: your eyes are yellow,Patient_Instructions
+20 patient: looked into your eyes and I found your eyes are yellow,Patient_Instructions
+21 patient: your eyes are red,Patient_Instructions
+2 patient: my father has been coughing for days,Family_History
+3 doctor: my father has been coughing for days,Family_History
+4 patient: I have been coughing for days,HPI
+5 patient: I have been coughing for days,HPI
+6 doctor: I have been coughing for days I have been coughing for days,HPI
+9 patient: your eyes looks yellow,Physical_Exam
+10 patient: I thought that the auto-text on kind of test does first,Plan
+11 patient: stopping taking aspirin for about 2 days,Patient_Instructions
+13 patient: I have been taking aspirin for this,HPI
+15 patient: I'm already to Osprey,Plan
+16 patient: I'm allergic to penicillin,Allergies
+1 doctor: hello doctor I have been coughing for days,HPI
+2 patient: hello doctor I have been coughing for days,HPI
+4 doctor: I think my father has been coughing for some years,Family_History
+5 patient: I think my father has been coughing for some of yours,Family_History
+8 doctor: I think that book 5,HPI
+19 patient: should I stay still,Patient_Instructions
+17 doctor: I guess so but I'm non-native speakers if you're going to like this conversion of,Medications
+22 doctor: how is brain that today is hard to connect to so where you're sad since that off,Medications
+26 patient: yeah,Assessment
+29 doctor: Jessa Seewald how long,HPI
+32 patient: are you on,Medications
+33 patient: okay,Assessment
+34 patient: hello how are you is there anything uncomfortable with seems to be the problem,Patient_Instructions
+35 patient: when did you feel unwell and how long have you been like this,Medications
+36 doctor: hello how are you is there anything uncomfortable with seems to be the problem I wanted you feel unwell and how long you been like this,Medications
+39 doctor: I have a headache in this days,HPI
+42 patient: are you suffering from any diseases,Medications
+44 doctor: are you suffering from any diseases from have you been diagnosed for anything,Medications
+46 patient: smfcu be like,HPI
+48 patient: Yasmin diagnosis,Assessment
+52 doctor: 2 years,HPI
+54 patient: okay,Assessment
+55 patient: are you allergic to anything if so what are you allergic to,Patient_Instructions
+56 doctor: are you allergic to anything if so what are you allergic to allergic to Poland,Patient_Instructions
+57 patient: and did your family have a history with any certain diseases,Physical_Exam
+60 doctor: oh yeah I think the doctor yet,Review_of_Systems
+1 doctor: OK Google is Ruby works now,Allergies
+2 doctor: I'm allergic to pollen,Allergies
+7 patient: hello testing,Plan
+6 doctor: the doctor's microphone.,Review_of_Systems
+19 doctor: there's something OU V,HPI
+23 doctor: but that's looking,HPI
+28 doctor: that's looking into your eyes to see if it is yellow,Physical_Exam
+31 patient: so I'm going to send you too low for blood work,Plan
+34 doctor: is this our only microphone if you just microwave not working,Medications
+37 patient: yeah eat less food and try to exercise more if you'll do that you'll feel much help you,Patient_Instructions
+1 doctor: this is a test,Plan
+2 doctor: so when you have a sentence that's long it,Medications
+3 doctor: goes out the end and you can't really see what it is can you have the default so these things become longer like this,Medications
+6 doctor: Oh you mean behind makes up a power window more water so it can contain all the information,Patient_Instructions
+8 doctor: for most of the sentences that someone says they might be a little bit longer so could you make it so this this text box is longer so that it's easier to see them,Medications
+15 doctor: what do these numbers mean in front of a wave say something about this poster it is the order of the conversation means things so it will help us too,Family_History
+17 doctor: these boxes much bigger too because it's printing like this so it's hard to read it,Plan
+19 doctor: so what's going to be coming into these places it's some some I think this before,Medications
+26 doctor: quick to the program,Review_of_Systems
+1 doctor: send the document,Review_of_Systems
+4 patient: I've been having a very upset stomach for the past week,Review_of_Systems
+5 doctor: okay so what seems to be the problem today,Review_of_Systems
+6 doctor: do you have any other symptoms,Medications
+8 doctor: I have a high temperature and I have a low appetite,HPI
+7 patient: I have a high temperature and I have a low appetite,HPI
+10 patient: a couple days,HPI
+11 patient: 100 degrees,Assessment
+12 doctor: how long have you had a little appetite and what temperature did you find when you measure temperature,Medications
+15 doctor: okay I'm going to do a quick test to see in your throat,Physical_Exam
+17 doctor: do you have any allergies,Medications
+19 doctor: I'm allergic to penicillin,Allergies
+18 patient: I'm allergic to penicillin,Allergies
+20 doctor: have you suffered from any diseases in the past month,HPI
+22 doctor: in the past month I broke my arm,Family_History
+21 patient: in the past month I broke my arm,Family_History
+23 patient: I fell off my bike,Family_History
+24 doctor: what was the cause of your broken arm,Physical_Exam
+26 doctor: did the arm heal regularly,Review_of_Systems
+27 patient: yeah,Assessment
+30 doctor: I think you have the flu,Medications
+32 doctor: I'm going to send you the lab for a blood test I need to test your cholesterol level,Plan
+34 doctor: okay thank you,Medications
+33 patient: okay thank you,Medications
+35 doctor: let's do a blood pressure test,Plan
+37 doctor: I recommend that you rest and stay off your feet for 3 days,Patient_Instructions
+38 doctor: and then start to exercise regularly again,Review_of_Systems
+40 doctor: I'm going to prescribe you an antibiotic,Medications
+41 doctor: I want you to take it for 6 days twice a day,Medications
+43 doctor: see what some problem example you ask the patient,Medications
+45 doctor: filter take a field days,HPI
+46 doctor: that should be medication interaction I don't know okay so let's go through so quick please,Medications
+48 doctor: quick please,Allergies
+50 doctor: oh I'm sorry quit please maybe I need to say something like bye bye,Medications
+1 patient: hello,Assessment
+2 doctor: hello what's wrong with you,Medications
+4 patient: my ass is packed,Allergies
+5 doctor: have you ever try to help yourself,Plan
+6 doctor: I suggest you to buy something and the pussy to interact,Medications
+8 patient: no oh I would try the Xbox though,Review_of_Systems
+11 doctor: janitor,HPI
+12 doctor: quitter Le programme,HPI
+1 patient: what's wrong with Seattle,Assessment
+3 patient: hello good morning,Medical_History
+4 doctor: hello good morning,HPI
+15 doctor: I need to go to Riverside,Plan
+17 doctor: quitter Le programme,HPI
+4 patient: my father has been coughing for today,Family_History
+2 doctor: Pokemon go,HPI
+3 patient: pop-out window,HPI
+4 patient: hello this is already don't have the radon tester a long time to write a radon test,Plan
+6 doctor: Roblox,HPI
+8 doctor: fish,HPI
+9 doctor: papaya,HPI
+10 patient: quitting the program,Review_of_Systems
+1 patient: this is a test,Plan
+5 patient: testing testing,Plan
+4 doctor: testing testing,Plan
+8 patient: quit the program,Review_of_Systems
+3 patient: papapa window,Assessment
+12 doctor: pop-out window,HPI
+13 patient: pop-out window,HPI
+16 patient: poop out your window,Physical_Exam
+17 doctor: open the window,Review_of_Systems
+27 patient: poop up a new window,Medications
+35 patient: pop pop out window,HPI
+38 patient: good morning,Medical_History
+37 doctor: Pokemon,HPI
+40 patient: have to pay,HPI
+43 doctor: hello good morning I am your father,Physical_Exam
+44 patient: hello good morning I am your father,Physical_Exam
+46 patient: play the program,Review_of_Systems
+1 patient: oh,Allergies
+2 doctor: hello,HPI
+5 patient: good morning,Medical_History
+6 doctor: good morning,HPI
+8 doctor: quick to this program,Physical_Exam
+7 patient: quit today program,HPI
+1 doctor: my father has been coughing for,Family_History
+2 patient: my father has been coughing for years,Family_History
+6 patient: quit program,Assessment
+1 doctor: my father has been coughing for years,Family_History
+2 patient: my father has been coughing for years,Family_History
+1 patient: my father has been coughing for years,Family_History
+2 doctor: my father has been coughing for years,Family_History
+10 patient: my father has been coughing for years,Family_History
+12 patient: my father has been coughing for years,Family_History
+20 doctor: my father has been coughing for years,Family_History
+19 patient: my father has been copying for you,Family_History
+23 patient: what year,Assessment
+24 doctor: my father has a fever for years,Family_History
+37 patient: my mother has been coughing for days,Family_History
+43 patient: RGB ice cream,Assessment
+45 patient: I am allergic to aspirin,Allergies
+46 doctor: I am allergy to aspirin,Allergies
+1 doctor: my father has been coughing for days,Family_History
+2 patient: my father has been coughing for days,Family_History
+15 patient: my father has been coughing for days,Family_History
+16 doctor: my father has been coughing for days,Family_History
+22 doctor: my father has been coughing for days,Family_History
+25 doctor: it's not crack,Medical_History
+26 patient: my father has been coughing for days,Family_History
+27 doctor: a father has been coughing for days,Family_History
+35 patient: I have a couple days,HPI
+36 doctor: I have been coughing for days,HPI
+37 doctor: I had a fever for days,Medical_History
+41 doctor: my mother has been coughing for days,Family_History
+54 patient: my father has been coughing for days,Family_History
+56 patient: I have a couple more days,HPI
+57 doctor: I have been coughing for days,HPI
+1 patient: my father has been coughing for years,Family_History
+2 doctor: father has been coughing for years,Family_History
+9 patient: speak up in 4 years,Medications
+11 patient: my father has been coughing for years,Family_History
+12 doctor: my father has been coughing for years,Family_History
+13 patient: allergy to aspirin,Allergies
+14 doctor: I am allergy to aspirin,Allergies
+15 doctor: I am allergic to aspirin,Allergies
+16 patient: allergy to aspirin,Allergies
+55 doctor: I am allergic to aspirin,Allergies
+56 patient: I am allergic to aspirin,Allergies
+63 doctor: I am out of g2a spring,HPI
+64 patient: I am allergic to aspirin,Allergies
+84 doctor: I am RGB to Osprey,HPI
+83 patient: I am an argument about to break,Allergies
+86 doctor: I am object to a spring,HPI
+88 doctor: allergic to aspirin,Allergies
+89 patient: I am allergic to aspirin,Allergies
+1 patient: in 4 days,HPI
+2 patient: my father has been coughing for today,Family_History
+3 doctor: my father has been coughing for birthdays,Family_History
+10 patient: my father has been copying birthday,Family_History
+11 patient: my father has been coughing for days,Family_History
+22 patient: my father has been coughing for days,Family_History
+23 doctor: my father has been coughing for days,Family_History
+24 patient: my mother has been coughing for days,Family_History
+25 doctor: my mother has been coughing for days,Family_History
+26 patient: I am are g2a Supreme,HPI
+27 patient: allergy to aspirin,Allergies
+28 doctor: I am outer g2a spray I am out of you to a spring,Patient_Instructions
+29 patient: allergic to aspirin,Allergies
+30 doctor: I am allergic to aspirin,Allergies
+33 patient: I have been coughing for years,HPI
+34 doctor: I have been coughing for years,HPI
+40 patient: I am I allergic to aspirin,Allergies
+49 patient: I apologize password,Assessment
+50 doctor: I am allergic to aspirin,Allergies
+61 patient: I am allergic to spot spray,Allergies
+62 patient: allergic to aspirin,Allergies
+63 doctor: I am out of Jake to aspirin I am allergic to aspirin,Allergies
+75 patient: allergic to aspirin,Allergies
+84 doctor: I am an object to aspirate,Review_of_Systems
+85 patient: allergic to aspirin,Allergies
+87 doctor: my father has been coughing for years,Family_History
+90 doctor: I have been coughing for days,HPI
+93 doctor: quit the program,Review_of_Systems
+6 patient: father has been copying for years,Family_History
+7 doctor: my father has been coughing for years,Family_History
+16 patient: my father has been coughing for years,Family_History
+17 doctor: my father has been coughing for years,Family_History

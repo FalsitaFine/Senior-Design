@@ -1,89 +1,232 @@
-1 patient: hello,Assessment
-2 doctor: hello,HPI
-6 doctor: Quizlet program,HPI
-7 patient: quit the program,Review_of_Systems
-2 patient: hello,Assessment
-3 patient: utility to draw,Medications
-7 patient: Skylander Hotel cuello program,Assessment
-10 doctor: quit the program,Review_of_Systems
-1 doctor: how are you,Medications
-2 patient: how are you,Medications
-3 patient: jalapenos on Sashabaw,Assessment
-8 patient: way to go program,Patient_Instructions
-11 doctor: crossword quiz,HPI
-10 patient: Orchard Charlotte NC program,Assessment
-12 patient: quitter Le programme,Assessment
-2 doctor: I am smart,HPI
-3 patient: I am smart,HPI
-5 patient: HPI Challenger,Assessment
-8 doctor: show me a sandwich,Allergies
-15 patient: quitter Le programme,Assessment
-2 patient: location how is it going,Physical_Exam
-3 doctor: I think I don't feel good this days,Review_of_Systems
-4 patient: where did you feel good,Medications
-6 patient: how long have you been feeling bad headache,HPI
-7 doctor: about 1 year,HPI
-5 doctor: hotties,HPI
-9 patient: what else do feel,Review_of_Systems
-10 doctor: I ate a lot of aspirins and to my stomach,Allergy
-12 patient: is there someone in your family that has the same problem,Family_History
-15 doctor: I think my dad said how do you say King 2,Family_History
-18 patient: are you allergic to anything,Patient_Instructions
-19 doctor: I'm allergic to stupid people,Allergies
-23 patient: okay that's Christmas program Alexa this program,HPI
-24 doctor: quick to the program,Review_of_Systems
-1 patient: hello patient how do you feel,Medications
-2 doctor: how catching a fever for days,HPI
-3 patient: after how many days,Medical_History
-4 doctor: I think they serve for one year,Medications
-6 patient: I have you take any medicine,Medications
-7 doctor: I have taken some aspirin,HPI
-8 patient: and do you have some allergic to the medicine,Medications
-9 doctor: I think I'm ready to,Medications
-11 doctor: stupid people,HPI
-12 patient: how about your family does someone in your family has similar symptoms,Physical_Exam
-13 doctor: my dad has been coughing for a mouse to,Family_History
-14 patient: and,Review_of_Systems
-16 patient: okay I have no question to ask let's Christopher room,Physical_Exam
-21 doctor: Brady tour,HPI
-22 doctor: song,HPI
-40 patient: I've been coughing for 3 days,HPI
-44 patient: my grandparents have cancer,Family_History
-45 doctor: my grandparents have cancer,Family_History
-48 doctor: Cheshire Ohio,HPI
-53 patient: I'm eating ice cream this day,Medications
-56 patient: oh no I'm eating ice cream this is not ice cream,Medical_History
-64 patient: I had a fever since this morning,Medical_History
-69 patient: I'm allergic to penicillin,Allergies
-72 patient: I don't feel good waiting peanuts,Review_of_Systems
-71 doctor: Peoples Bank in peanuts,HPI
-79 doctor: I suggest you all to take off Rochester,Medications
-80 patient: I suggest you all to take out block tester,Medications
-82 patient: first,Assessment
-84 doctor: I suggest to you taking a blood test on first,Physical_Exam
-85 patient: I suggest to you picking up blood test at first,Physical_Exam
-88 doctor: well I looked into your eyes your eyes yellow,Physical_Exam
-89 patient: oh I looked into your eyes your eyes see Seattle,Physical_Exam
-100 doctor: because I'm John,Allergies
-101 doctor: quit the program,Review_of_Systems
-3 patient: I am,HPI
-4 patient: coughing for this days,HPI
-5 doctor: I am coughing for this day,HPI
-11 patient: how does the Hulk honey I have eating aspirin for a month,HPI
-14 patient: water help your shoulder by eating aspirin for a month,Instructions
-13 doctor: waratah,HPI
-21 patient: my dad is still peed,Family_History
-20 doctor: my dad is stupid,Family_History
-23 patient: for his whole life,Medications
-22 doctor: for his whole life,Patient_Instructions
-30 patient: hi,HPI
-31 patient: o3o Angelo,Assessment
-32 doctor: oh,HPI
-37 doctor: tornado,HPI
-39 doctor: Queen of the program,Review_of_Systems
-40 patient: quit of the program,Family_History
-1 doctor: I have been coughing for days,HPI
-2 patient: I have been coughing for days,HPI
-27 doctor: weather,HPI
-30 patient: quick to the program,Review_of_Systems
-31 doctor: quit to the program,Review_of_Systems
+2 patient: hello hello testing testing,Plan
+3 doctor: Now help me,Allergies
+7 doctor: hello hello testing,HPI
+1 patient: hello hello testing,Plan
+1 doctor: what's wrong with you,Medications
+2 patient: hello I feel I feel like I'm good but my boyfriend is a pig,Review_of_Systems
+1 doctor: hello how's it going,Plan
+3 patient: I feel bad I have been coughing for this days,Review_of_Systems
+5 doctor: are you allergic to something,Patient_Instructions
+6 patient: I think I'm autoject 2 aspirin,Medications
+8 doctor: and hey is there any family member are suffering from some diseases,Allergies
+9 patient: my father has fever for about 1 year,Family_History
+12 doctor: I'm allergic to aspirin,Allergies
+13 patient: I'm allergic to aspirin,Allergies
+22 doctor: call a deal,HPI
+24 patient: Craigslist program,Assessment
+25 doctor: I know you called,Medications
+29 patient: Craigslist Dora,Assessment
+28 doctor: play Locker,HPI
+30 doctor: that was mean,HPI
+33 doctor: Quickly's,HPI
+34 patient: Quickly's,Assessment
+37 doctor: ctrl-c Hartford,HPI
+1 patient: what's wrong with you all I'm a Seeker,Medications
+2 doctor: what's wrong with your car,Physical_Exam
+5 doctor: what's in your mouth,Physical_Exam
+6 doctor: stomach ache,HPI
+7 patient: I have a stomach ache,HPI
+9 doctor: what's in your mouth,Physical_Exam
+22 patient: my father has been favored for years,Family_History
+23 doctor: digital,HPI
+1 patient: so I have been coughing for years,Review_of_Systems
+2 doctor: so I'll be happy for you,Medications
+3 doctor: I need to say something and it should be something,Plan
+4 patient: do you have any kind of a medical history in your family,Family_History
+5 doctor: after this my phone,Allergies
+6 doctor: Elizabeth Colorado,HPI
+8 patient: Elizabeth Colorado,Assessment
+7 doctor: yes I'm done playing pool, 5523 trap traffic and driving to the car,Review_of_Systems
+1 doctor: I I will cook,HPI
+2 patient: I have a code,HPI
+3 doctor: football,HPI
+4 patient: American football,Assessment
+7 doctor: oh I'm sorry I,HPI
+8 patient: oh I'm sorry,Allergies
+9 doctor: starting,HPI
+13 doctor: OK Google,HPI
+14 patient: okay so I have a favor and I had a headache,HPI
+22 patient: sing,Assessment
+24 patient: mentally retarded result,Assessment
+28 patient: how many classes do you have,Plan
+29 doctor: how many classes do you have in your project,Plan
+40 doctor: so this guy is going to talk about something,Physical_Exam
+41 doctor: Declassified,HPI
+42 doctor: sunglasses,HPI
+44 doctor: so did you oh sister,Medications
+50 doctor: and the other one is blonde or what,Review_of_Systems
+56 doctor: Whoopi what is the difference between Bellini Irish famine,HPI
+57 doctor: HB Rose design but that's the end and then you give it involves right yeah you should give you the bus,Medications
+59 doctor: sometimes it gives you the wrong.,Medications
+64 doctor: Who provided the specification,Review_of_Systems
+68 doctor: yeah how good it should be,Plan
+90 patient: I have a headache,HPI
+92 doctor: yes,HPI
+93 patient: tapioca,Assessment
+95 patient: I am a diabetic,HPI
+94 patient: which one,Medications
+100 doctor: okay guys thank you so much,Medications
+101 patient: okay guys thank you so much,Medications
+105 doctor: Terminator this day I started,Medical_History
+117 patient: I have diabetes,HPI
+120 doctor: okay if they got diabetes and it gives,HPI
+122 doctor: electronic medical record,HPI
+140 patient: are all prokaryotes,Patient_Instructions
+139 doctor: what's going on,Assessment
+141 doctor: wake me up in an hour,Review_of_Systems
+152 doctor: what what about,Assessment
+154 doctor: weather.com,HPI
+163 doctor: yeah but yeah,HPI
+166 doctor: ?,HPI
+201 doctor: have a lot of people come by and by then,Family_History
+204 doctor: talk about,HPI
+206 doctor: even the judge gave him a question for a while,HPI
+239 doctor: reminder for tomorrow,Patient_Instructions
+271 doctor: oh yeah,HPI
+287 doctor: he's doing you like,Medications
+311 doctor: I have a popsicle,HPI
+310 patient: I have a cough these days,HPI
+318 doctor: everyhome,HPI
+324 patient: I am allergic to peanut,Allergies
+5 doctor: the universe,Review_of_Systems
+20 doctor: flying limousine lady,HPI
+32 doctor: hey what's up,Assessment
+34 doctor: Montgomery Ward,HPI
+37 doctor: happy Obama,HPI
+62 patient: meticulous repair,Assessment
+70 doctor: Pro-Direct,HPI
+78 doctor: what's up,Assessment
+85 doctor: Amanda,HPI
+87 doctor: I don't know,HPI
+94 doctor: right I'm working,HPI
+123 patient: graduating,Assessment
+124 doctor: graduation,HPI
+136 doctor: I really need is really hard for me,Patient_Instructions
+139 doctor: I found,HPI
+152 doctor: download,HPI
+153 doctor: people that I thought it fell,HPI
+200 doctor: really old books,HPI
+206 patient: Victorious microphone,Assessment
+205 doctor: so easy,Review_of_Systems
+207 patient: so I have to tell her some medical issue,HPI
+209 doctor: classic Dodge City medical issue,HPI
+211 patient: okay so I'm allergic to hard work,Allergies
+210 doctor: when you want to pretend to be a doctor so I'm allergic to hard work,Plan
+212 patient: what happened,Assessment
+213 patient: okay I need Space Mountain,HPI
+215 doctor: so I stopped taking Tylenol but I started taking Advil,Medical_History
+216 patient: fantastic,Assessment
+219 patient: okay so it's voice recognition works well,Plan
+220 patient: Google voice recognition,Assessment
+228 patient: Ridgid 22 in NJ,HPI
+229 patient: when you get this message break it up into unicorns and migraines and you can see that here too late,Medications
+230 patient: I've been having using you have been that you can have ever,Medications
+231 patient: as far as classification models go,HPI
+242 doctor: great plan,HPI
+241 patient: pause the conversation right to McDonald's or kind of messes up,Medications
+245 doctor: so yeah I forgot it then as HTML and Poindexter does a tune-up,Review_of_Systems
+249 patient: it looks like it you have a bunch of sentences like something like this so we have older Sports buying the easybeats categories and in the folders We have sentences like that to a message this sentence and these features in detention,Review_of_Systems
+252 doctor: what the phrases are so we can jump on,Review_of_Systems
+254 patient: so then like Isaac just use more of the doctors themselves to say okay this sentence is family history and then when they like to finalize the EMR that content back into one of these folders,Family_History
+259 patient: fox said no.,Medical_History
+261 patient: manually add stuff and we just had to bring him to the doctor to do that because like so I can even if we get the classification wrong information,Review_of_Systems
+265 doctor: okay I'm not sure about this machine learning stuff,Patient_Instructions
+268 doctor: just walk on music,Assessment
+270 doctor: and this is Black Ops how to sleep last night,Allergies
+275 doctor: I think I'm,HPI
+274 doctor: Production Tool Conroe,HPI
+278 doctor: I hope you have fun,Medications
+296 doctor: Minnesota Zoo,HPI
+303 patient: presentation today,HPI
+306 doctor: Take Two and a Half Men,Review_of_Systems
+307 doctor: I like to access,Review_of_Systems
+325 patient: Christmas program,Assessment
+2 patient: ask me a question and I've had a really bad cold for a long time,Review_of_Systems
+6 patient: sure,Assessment
+8 doctor: I have a spot,HPI
+9 patient: I have a cough,HPI
+12 patient: high blood pressure on my mom's side dyslexia on my father's side,Family_History
+13 doctor: high blood pressure on my mom's side dyslexia on my father's side,Family_History
+16 patient: my wife has an allergy to latex,Allergies
+17 doctor: my wife has no allergies bacon,Family_History
+18 doctor: yeah they said nice,HPI
+19 doctor: antidepressant,HPI
+29 doctor: yes,HPI
+41 doctor: hello,HPI
+47 patient: what do we need to say in the microphone,Medications
+49 patient: so I would say something like leg pain severe leg pain okay in the knee region,Review_of_Systems
+50 doctor: with neuropathy in the left leg and,Review_of_Systems
+51 patient: with neuropathy in the left leg and,Review_of_Systems
+53 doctor: my doctor has been coughing for your face,Family_History
+54 doctor: call Allis well say about your family history on the car,Physical_Exam
+55 doctor: doctor doing morphine tomorrow,HPI
+60 patient: thank you have a good day,Medications
+3 doctor: I've had a fever for 3 days,Medical_History
+4 patient: so what's wrong with you. So I have a fever for 3 days,Medications
+6 doctor: speaking asthma,HPI
+7 patient: I'm taking aspirin,Medical_History
+9 patient: my father had a skin cancer,Family_History
+10 doctor: my father had it it's good for you,Medications
+12 doctor: New Orleans,HPI
+13 doctor: oh yeah,HPI
+14 patient: oh yeah nice how did you do that for,Medications
+17 patient: father,Assessment
+16 doctor: it's up and running by March but I got to come by until later you want to,Medications
+22 doctor: I'm glad it's been going well,HPI
+23 doctor: I just gave the exam in my class so I can,Review_of_Systems
+24 doctor: call my modaka Oklahoma,Family_History
+25 doctor: luxray,HPI
+28 doctor: movie,HPI
+31 doctor: highest rated PS4,HPI
+32 doctor: pill,HPI
+36 doctor: Candice DeLong,HPI
+1 doctor: housing for this day,Medications
+2 patient: I have been coughing for this days,HPI
+10 patient: it just will know like really,Medications
+11 patient: going to make think of what I do I work more in rehab is there any connection with rehab or is this mostly like her position,Patient_Instructions
+12 patient: imma occupational therapist but we use the same system for documentation,HPI
+13 patient: well let me just try some,Medications
+16 patient: the patient described last night that he had difficulty sleeping due to pain in his,Medical_History
+17 patient: in his head,HPI
+15 doctor: patient described last night that he had,Medical_History
+21 doctor: how am I even picking up everything,Review_of_Systems
+23 doctor: it's not like I could not stop,Patient_Instructions
+26 doctor: bad boys theme song,HPI
+28 doctor: you just look at people tell me more about it tell me more about it sold her house keys recognition,Patient_Instructions
+36 doctor: are they using the system anywhere your system work,Physical_Exam
+39 patient: Health provider that helps out a lot,HPI
+38 doctor: or did he ask you to do something nice for what company is used for,Patient_Instructions
+46 doctor: if it has to,Plan
+47 doctor: understand what it is that you're,Medications
+48 patient: Medicaid,Assessment
+51 doctor: interesting,HPI
+50 doctor: and they don't have the same medication that I've ever known they just know it will get us the medication for pots,HPI
+55 doctor: what was fun about this passing everything that you liked about the project,Medications
+62 doctor: Gilmer County,HPI
+75 doctor: Apple watch to Apple watch,Patient_Instructions
+79 doctor: commercial,HPI
+88 patient: moving,Assessment
+89 doctor: teach me all that,HPI
+92 doctor: also PayPal,HPI
+1 doctor: Taco Fall,HPI
+2 patient: I'll talk to you later I hope so,Medications
+3 doctor: so what would I,Assessment
+4 patient: so what would I,Assessment
+5 patient: are you have some illness or anything,Medications
+7 doctor: should I give my name or just tell me my symptoms,Family_History
+6 doctor: happy wife is a happy face,Allergies
+9 doctor: experiencing,HPI
+10 doctor: and I feel like I have a lump in my neck,Review_of_Systems
+11 patient: just tell me my symptoms I'm experiencing some pain in my neck and I feel like I have a lump in my neck,Family_History
+12 patient: is recording your conversation skills such as to which kind of,Physical_Exam
+13 doctor: okay your conversation until if you have a great time off into,Medications
+15 doctor: say hello to go to Oregon,Patient_Instructions
+17 patient: on the doctor you only results,Medications
+18 doctor: I'm about to be falling off your shoes. Follow results my crap,Physical_Exam
+20 patient: Apple,Patient_Instructions
+21 doctor: interfering,HPI
+22 patient: and I put in hers yeah,Review_of_Systems
+25 patient: what are useful to all that would be yeah but a useful tool how helpful that would be in take away so much work paperwork and,Medications
+26 patient: typically what people upset,Assessment
+27 patient: thank you,Medications
+28 patient: if somebody interested in using your design is there,Physical_Exam

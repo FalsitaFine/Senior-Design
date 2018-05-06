@@ -1,0 +1,4 @@
+...
+    32 doctor: I'm going to send you the lab for a blood test I need to test your cholesterol level
+    35 doctor: let's do a blood pressure test
+    38 doctor: and then start to exercise regularly again

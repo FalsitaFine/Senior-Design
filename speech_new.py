@@ -260,11 +260,13 @@ def Vote(text):
 	VoteB,VoteD = HardClassify(text)
 	VoteML = MLClassify(text)
 	Advanced = 0 
+	print(VoteB,VoteD,VoteML)
 	if (Advanced):
 		return VoteML
 	else:
 		if VoteD == VoteB:
-			return VoteB
+        		return VoteML
+			#return VoteB
 		else:
 			return VoteML
 
@@ -641,7 +643,7 @@ def Record(person):
     #is not working, an error will pop up saying "device_id undefined"
 	with sr.Microphone(device_index = device_id, sample_rate = sample_rate, chunk_size = chunk_size) as source:
 		recog.adjust_for_ambient_noise(source)
-		recog.pause_threshold = 0.7
+		recog.pause_threshold = 0.9
 		while 1:
             #listens for the user's input
 			audio = recog.listen(source)

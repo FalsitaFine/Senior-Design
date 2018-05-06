@@ -1,0 +1,3 @@
+...
+    3 doctor: I've had a fever for 3 days  ;  
+    2 patient: I have been coughing for this days  ;  
