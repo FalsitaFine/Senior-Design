@@ -230,3 +230,17 @@
 26 patient: typically what people upset,Assessment
 27 patient: thank you,Medications
 28 patient: if somebody interested in using your design is there,Physical_Exam
+4 doctor: good morning,HPI
+1 doctor: I am allergic to aspirin,Allergies
+2 doctor: Melbourne Florida,HPI
+15 doctor: national flower,HPI
+1 doctor: I am out of spring,HPI
+9 doctor: all dominant,HPI
+12 doctor: my dad has been coughing for days,Family_History
+16 doctor: 8 Ball,HPI
+18 doctor: open reference basement before,HPI
+22 doctor: yellow walls,HPI
+59 doctor: Bank of America,Family_History
+65 doctor: my father has been coughing for years,Family_History
+2 doctor: hello,HPI
+1 doctor: hello,HPI
